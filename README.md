@@ -28,3 +28,5 @@ Land can be available:
    * the Player reaches skill level X for skill Y
    * the Player marries an NPC and family land is added to the Farmer's land
    * complete Quest X and the land can be given or sold to the Player
+
+See the Wiki section for more details.

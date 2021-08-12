@@ -1,5 +1,5 @@
 # FarmE xpansion II
-Farm Expansion II is a continuation of the original FarmExpansion mod from AdvizeGH. I have continued his vision and matured the mod from a single hard coded expansion to a framework supporting modder definable content packs with farm maps that can be used as additional farming land.
+Farm Expansion II is a continuation of the original FarmExpansion mod from AdvizeGH. I have continued the original author's vision and matured the mod from a single hard coded expansion to a framework supporting modder definable content packs with farm maps that can be used as additional farming land. A new sign board is added to the Town map on the path from the Bus Stop. The sign displays up to 2 parcels of land that are currently for sale. If the Player wants, they can purchase 1 or both of the lands. The Player is then informed that they will receive a letter the next with their deed and the land is then available. When a content packs perquisites are met and the selling price is not free, the Player is sent a HUD message the morning the land goes for sale.
 
 The expansion farm supports:
 
